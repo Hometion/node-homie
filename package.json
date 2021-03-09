@@ -1,0 +1,11 @@
+{
+  "name": "node-homie",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:Hometion/node-homie.git",
+  "author": "Henrik Næss <henrik@heka.no>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  }
+}
